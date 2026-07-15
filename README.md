@@ -55,4 +55,10 @@ dotnet run
 3. Yapay zeka anında rastgele bir karşı hamle yapacak ve sonuç ekranınızda belirecektir.
 4. Skorları sıfırlamak ve en baştan başlamak istediğinizde alttaki **🔄 Skorları Sıfırla** butonunu kullanabilirsiniz.
 
+<img width="471" height="503" alt="Ekran görüntüsü 2026-07-15 211009" src="https://github.com/user-attachments/assets/2917f0e7-5430-43ac-bcd0-f81f3673504c" />
+<img width="467" height="496" alt="Ekran görüntüsü 2026-07-15 210946" src="https://github.com/user-attachments/assets/cebd275c-842f-42e7-b63a-cd1c022ce43e" />
+<img width="471" height="492" alt="Ekran görüntüsü 2026-07-15 210935" src="https://github.com/user-attachments/assets/ec1494c0-85ae-4615-a501-08ac7490265e" />
+<img width="470" height="503" alt="Ekran görüntüsü 2026-07-15 210958" src="https://github.com/user-attachments/assets/b8161a19-52c2-4afc-8d54-1196e9d7420f" />
+
+
 
